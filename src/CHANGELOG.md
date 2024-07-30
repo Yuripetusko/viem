@@ -1,5 +1,11 @@
 # viem
 
+## 2.18.6
+
+### Patch Changes
+
+- [#1684](https://github.com/wevm/viem/pull/1684) [`20fc7fd0`](https://github.com/wevm/viem/commit/20fc7fd0f6c80f22f277e3f597b332ef625b859a) Thanks [@Yuripetusko](https://github.com/Yuripetusko)! - Added Multicall3 config to Base Sepolia chain definition
+
 ## 2.18.5
 
 ### Patch Changes
